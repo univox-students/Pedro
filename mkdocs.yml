@@ -2,6 +2,19 @@ site_name: University College Pedro Society
 site_url: https://univox-students.github.io/Pedro
 base_url: https://univox-students.github.io/Pedro
 
+repo_url: https://github.com/univox-students/Pedro
+repo_name: univox-students/Pedro
+
+site_description: The Univ PedroSoc is a series of student-led talks that aim to showcase mathematics and computer science that lies outside a typical undergraduate course.
+site_author: Pedro Society committees.
+
+copyright: Copyright &copy; 2024 Pedro Society, University College, Oxford. Website made by Samuel Chun Hei Lam.
+
+nav:
+  - Home: index.md
+  - Previous Talks: 
+    - 2023-2024: prev_talks/2324.md
+  - Governance: governance.md
 
 theme:
   name: material
@@ -12,14 +25,3 @@ theme:
     - navigation.path
     - navigation.footer
     - navigation.tracking
-
-repo_url: https://github.com/univox-students/Pedro
-repo_name: univox-students/Pedro
-
-nav:
-  - Home: index.md
-  - Previous Talks: 
-    - 2023-2024: prev_talks/2324.md
-  - Governance: governance.md
-
-copyright: Copyright &copy; 2024 Pedro Society, University College, Oxford. Website made by Samuel Chun Hei Lam.
