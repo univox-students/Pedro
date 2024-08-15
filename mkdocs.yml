@@ -1,0 +1,21 @@
+site_name: University College Pedro Society
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.tracking
+
+repo_url: https://github.com/univox-students/Pedro
+repo_name: univox-students/Pedro
+
+nav:
+  - Home: index.md
+  - Previous Talks: 
+    - 2023-2024: prev_talks/2324.md
+  - Governance: governance.md
+
+copyright: Copyright &copy; 2024 Pedro Society, University College, Oxford. Website made by Samuel Chun Hei Lam.
