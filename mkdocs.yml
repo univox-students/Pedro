@@ -1,4 +1,6 @@
 site_name: University College Pedro Society
+site_url: https://univox-students.github.io/Pedro/
+
 theme:
   name: material
   features:
