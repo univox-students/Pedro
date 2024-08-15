@@ -19,7 +19,7 @@ The talks aim to be accessible to first and second year undergraduates, but can 
 - Week 8: 2nd December, 2024
 
 ## Previous Talks
-- [Academic Year of 2023-24](/prev_talks/2324)
+- [Academic Year of 2023-24](/Pedro/prev_talks/2324)
 
 ## Committee
 
