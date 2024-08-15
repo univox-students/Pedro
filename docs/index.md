@@ -5,7 +5,7 @@ By the grace of *the* Pedro, the PedroSoc is set up as a series of student-led t
 - Time: from 7pm, until *we forget how to multiply*.
 - Venue: High Street Lecture Theatre, University College. (To be confirmed!)
 
-The talks aim to be accessible to first and second year undergraduates, but can touch on more advanced ideas, especially for talks held later in the year. We welcome undergraduates from any College to attend! If you are outside of the University College, [please contact any one of the committees below](#committee)!
+The talks aim to be accessible to first and second year undergraduates, but can touch on more advanced ideas, especially for talks held later in the year. The PedroSoc is mainly for members of the [University College, Oxford](https://www.univ.ox.ac.uk). If you wish to join our community (aka our WhatsApp chat), [please contact any one of the committees below](#committee)!
 
 ## Upcoming Talks (2024 MT)
 - Week 0: 7th October, 2024
