@@ -2,7 +2,7 @@
 Here are a few wisdoms from our very own First Pedro on how to give a good talk in PedroSoc (and elsewhere!) The IT guy found the original message a little bit too aggressive so decided to edit it a little bit (and, as *the* WCR guy, added his view as a postgraduate). If you want the original version you could [check out the section below](#original-version). 
 
 ### Rule 1 - What should you aim for?
-**A PedroSoc talk should be a hands-on experience for undergraduate mathematicians to explore a certain mathematical topic beyond what’s covered in standard undergraduate lectures.**
+**A PedroSoc talk should be a hands-on experience for undergraduate mathematicians to explore a certain mathematical topic beyond what’s covered in [standard undergraduate lectures](https://courses.maths.ox.ac.uk/).**
 
 ### Rule 2 - Take care of undergraduates!
 **PedroSoc is, unfortunately, not the best place for you to give a research talk.** 
@@ -21,12 +21,12 @@ Instead, we prefer having a talk that walks through the proof of a certain theor
 
 Rather you can (and is often better to) rely on the intuition of the listeners. 
 
-> *Example.* One can explain with pictures that the fundamental group of the circle is Z, pointing out it needs more technical proof.
+> *Example.* One can explain with pictures that the [fundamental group of the circle](https://en.wikipedia.org/wiki/Fundamental_group#The_circle) is (isomorphic to) **Z** (the set of integers), pointing out it needs more technical proof.
 
 ### Rule 5 - Hard or unproven results.
 **Hard or unproven results can be used, as long as they are stated clearly, intuitively explained and exemplified.**
 
-> *Example.* one might use Weierstrass Factorisation Theorem to prove something regarding the Zeta function, but one should state the theorem clearly and give examples that illustrate why the result is true (e.g. with trigonometric functions).
+> *Example.* one might use [Weierstrass Factorisation Theorem](https://en.wikipedia.org/wiki/Weierstrass_factorization_theorem) to prove something regarding the [Zeta function](https://en.wikipedia.org/wiki/Riemann_zeta_function), but one should state the theorem clearly and give examples that illustrate why the result is true (e.g. with trigonometric functions).
 
 ### Rule 6 - Take away!
 **You should expect a majority of the audience will be able to interact with the topic you are presenting after listening to the talk, i.e. knowing why the theorem is (or should be) true, and/or how to apply the theorem.**
@@ -47,27 +47,27 @@ Make sure to leave time to address questions/misunderstandings from the audience
 
 Yes, we welcome talks on original research. It is, however, more preferable to have a talk on a simpler result/technique that is accessible by undergraduates, and note at the end that your current work is one of the many applications of the result/technique.
 
-We aim to have at most *two* per term talks that focus on original research, since we want to make sure everyone has a space to share their voice (and who does not love classics like the Dirichlet's Prime Number Theorem?). Therefore, don't be too frustrated if the committee (or the Pedro) asks you to defer your talk to next term for this reason. In fact, it is preferred to give a preliminary talk this term to prepare the audiences for your actual research talk next term! 
+We aim to have at most *two* per term talks that focus on original research, since we want to make sure everyone has a space to share their voice (and who does not love classics like the [Dirichlet's Prime Number Theorem](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions)?). Therefore, don't be too frustrated if the committee (or the Pedro) asks you to defer your talk to next term for this reason. In fact, it is preferred to give a preliminary talk this term to prepare the audiences for your actual research talk next term! 
 
 ### Rule 9 - Have Fun!
 **Most importantly: have fun and let others have fun, after all, it is maths!** 
 
 It is OK to make mistakes on the board and to hesitate to do things! Don't worry too much! Talk about something you enjoy and others might enjoy. This is not the defence of a thesis, but rather a friendly gathering of people who are willing to support each other and have fun with that.
 
-# Examples
+## Examples
 
 This is a good time to give a few examples. (Note: what makes a Bad talk is not the topic one chooses, but rather a bad (overly or not enough technical) approach to that topic.)
 
 | Good Talk | Bad Talk |
 | :-- | :-- |
-| Proving the Dirichlet Prime Number Theorem. | A broad overview of analytic number theory. |
-| Prove Stoke’s theorem for differential forms. | A survey on alternating tensors that lead to nowhere. |
-| Go through the “interesting” (cohomology) part of the proof of Jordan's Curve theorem (and explain how it is used to study 2D dynamical systems, i.e. proving Poincaré-Benedixon theorem). | Go through *all* (especially the “boring" analysis-topology) technical details of the Jordan's Curve Theorem. |
-| Explain how to solve Riemann-Hilbert (RH) problem and give examples of how other problems can be used to solve an RH problem. | Recent researches on how to simulate equilibrium measure (an application of RH problem) |
-| Motivate Ito’s formula and demonstrate how stochastic processes give rise to certain Partial Differential Equations (e.g. Black Scholes, Schrodinger bridge). | Go through the technical details of construction of Brownian motion and/or stochastic integrals. |
-| Prove some algebraic graph theory results assuming the spectral theorem. | Prove the spectral theorem itself, since this is already done in regular courses… <br/> … or focus on your research on graph clustering and rush through the algebraic graph theory results. (It’s ok to add your research as a side comment, but not as a focus). |
-| How to use Lovász Local Lemma (LLL) in application for combinatorial proofs? (without actually proving LLL itself). | Stating a stronger version of LLL without any concrete proof or application of the results. |
-| Prove the Fundamental Theorem of Algebra (using that the fundamental group of the circle is Z, Liouville's Theorem and Galois Theory) | Introduce Galois Theory, Complex Analysis and fundamental groups all at once without having time to explain the Fundamental Theorem of Algebra and its proofs, which was the goal. |
+| Proving the [Dirichlet's Prime Number Theorem](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions). | A broad overview of [analytic number theory](https://en.wikipedia.org/wiki/Analytic_number_theory). |
+| Prove [Stoke’s theorem for differential forms](https://en.wikipedia.org/wiki/Generalized_Stokes_theorem). | A survey on [alternating tensors](https://math.stackexchange.com/questions/3807548/alternating-tensor-definition) that *leads to nowhere*. |
+| Go through the “interesting” ([cohomology](https://en.wikipedia.org/wiki/Cohomology)) part of the proof of [Jordan's Curve theorem](https://en.wikipedia.org/wiki/Jordan_curve_theorem) (and explain how it is used to study 2D dynamical systems, i.e. proving [Poincaré-Benedixon theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9%E2%80%93Bendixson_theorem)). | Go through *all* (especially the “boring" analysis-topology) technical details of the [Jordan's Curve Theorem](https://en.wikipedia.org/wiki/Jordan_curve_theorem). |
+| Explain how to solve [Riemann-Hilbert (RH) problem](https://en.wikipedia.org/wiki/Riemann%E2%80%93Hilbert_problem) and give examples of how other problems can be used to solve an RH problem. | [Recent researches](https://www.sciencedirect.com/science/article/pii/S0021904511000669#:~:text=By%20combining%20a%20numerical%20approach,and%20the%20construction%20is%20independent) on how to simulate equilibrium measure (an application of RH problem) |
+| Motivate [Ito’s formula](https://en.wikipedia.org/wiki/It%C3%B4%27s_lemma) and demonstrate how stochastic processes give rise to certain Partial Differential Equations (e.g. [Black Scholes](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model), [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)). | Go through all details of construction of [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) and/or [stochastic integrals](https://en.wikipedia.org/wiki/Stochastic_calculus). |
+| Prove some [algebraic graph theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf) results assuming the [spectral theorem](https://en.wikipedia.org/wiki/Spectral_theorem#Finite-dimensional_case). | Prove the spectral theorem itself, since this is already done in regular courses… <br/> … or focus on your research on [graph partitioning](https://en.wikipedia.org/wiki/Graph_partition) and rush through the algebraic graph theory results. (It’s ok to add your research as a side comment, but not as a focus). |
+| How to use [Lovász Local Lemma](https://en.wikipedia.org/wiki/Lov%C3%A1sz_local_lemma) (LLL) in application for combinatorial proofs? (without actually proving LLL itself). | Stating a stronger version of LLL without any concrete proof or application of the results. |
+| Prove the [Fundamental Theorem of Algebra](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra) (using that the [fundamental group of the circle is isomorphic to Z](https://en.wikipedia.org/wiki/Fundamental_group#The_circle), [Liouville's Theorem](https://en.wikipedia.org/wiki/Liouville%27s_theorem_(complex_analysis)) and [Galois Theory](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra#From_Galois_theory)) | Introduce [Galois Theory](https://en.wikipedia.org/wiki/Galois_theory), [Complex Analysis](https://en.wikipedia.org/wiki/Complex_analysis) and [fundamental groups](https://en.wikipedia.org/wiki/Fundamental_group#The_circle) all at once without having time to explain the [Fundamental Theorem of Algebra](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra) and its proofs, which was the goal. |
 
 
 ## Original Version
