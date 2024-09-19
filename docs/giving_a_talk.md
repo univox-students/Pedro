@@ -71,7 +71,7 @@ This is a good time to give a few examples. (Note: what makes a Bad talk is not 
 
 
 ## Original Version
-The is the original version of The First Pedro's message sent during his conversation with the IT/WCR guy. If there are dispute between this version and the above edited version, then the Pedro will resolve it. (All times are GMT+1)
+The is the original version of The First Pedro's message sent during his conversation with the IT/WCR guy. If there are disputes between this version and the above edited version, then the Pedro will resolve it. (All times are GMT+1)
 
 **[10:16 pm, 19/09/2024] Lack Pedro:** Hi. Just my "original" version as I wish it to be presented to save you some work:
 
