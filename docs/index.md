@@ -10,6 +10,8 @@ The talks aim to be accessible to first and second year undergraduates, but can 
 ## Upcoming Talks (2024 MT)
 You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7TJT).
 
+When giving a talk, you are *highly recommended* (if not mandated by the First Pedro) to follow [the guide of giving a talk](/Pedro/giving_a_talk).
+
 - No talk in Week 0 - enjoy your Freshers' Week!
 - Week 1: 14th October, 2024
 - Week 2: 21th October, 2024
@@ -28,7 +30,7 @@ You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7T
 The Pedro Soc is proudly presented to you by:
 
 - [Pedro de Oliveira Lengruber Lack](mailto:pedro.lack@univ.ox.ac.uk) (The First Pedro)
-- Sidharth Suresh (The Bureaucracy Guy)
+- [Sidharth Suresh](mailto:sidharth.puthiyedathusuresh@univ.ox.ac.uk) (The Bureaucracy Guy)
 - Shing Fung Lau (The Notes Guy)
 - Morgan Healey (Freshers' Officer)
-- [Samuel Chun Hei Lam](https://wcr.univ.ox.ac.uk/profile/Samuel-CHLam) (The WCR Guy)
+- [Samuel Chun Hei Lam](https://wcr.univ.ox.ac.uk/profile/Samuel-CHLam) (The IT Guy, also happens to be the WCR Guy)
