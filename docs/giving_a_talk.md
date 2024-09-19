@@ -9,7 +9,7 @@ Here are a few wisdoms from our very own First Pedro on how to give a good talk 
 
 This does not mean you cannot present your original research here, though bear in mind that many of the audiences here are undergraduates. 
 
-> *Where is the line?* It should become clear as you read through our advice below, but if you are impatient, you can skip to [rule 8](#rule-8---original-research).
+> *Where is the line?* It should become clear as you read through our advice below, but if you are impatient, you can skip to [rule 8](#rule-8-original-research).
 
 ### Rule 3 - No broad overview!
 **A broad overview of a certain branch of mathematics is equally undesirable.** 
