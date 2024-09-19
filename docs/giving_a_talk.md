@@ -96,7 +96,7 @@ Best wishes,
 
 the First Pedro (Pedro Lack)
 
-**[11:20 pm, 19/09/2024] Lack Pedro:** Don´t forget my version (I might even be a link to a pdf document, it does nees to be all the text in the page)
+**[11:20 pm, 19/09/2024] Lack Pedro:** Don´t forget my version (it might even be a link to a pdf document, it doesn't need to be all the text in one page).
 
 **[11:23 pm, 19/09/2024] Lack Pedro:** [(The PDF Document of his wisdom.)](/Pedro/guidelines_2024.pdf)
 
