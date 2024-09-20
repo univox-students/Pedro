@@ -33,7 +33,7 @@ Rather you can (and is often better to) rely on the intuition of the listeners.
 
 *Ask yourself:* what will the listeners take away from that, and why should they care? 
 
-A BAD TALK IS ONE IN WHICH THE STUDENT DOES NOT LEARN HOW TO DO OR PROVE THINGS (EVEN IF HE LEARNs THAT SOME THINGS ARE TRUE). 
+A BAD TALK IS ONE IN WHICH THE STUDENT DOES NOT LEARN HOW TO DO OR PROVE THINGS (EVEN IF HE LEARNS THAT SOME THINGS ARE TRUE). 
 
 ### Rule 7 - Timing
 **Plan your talk for the amount of weeks you are given. We have booked the lecture theatre for two hours so please take your time to disseminate the results.** 
