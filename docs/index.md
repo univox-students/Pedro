@@ -31,6 +31,6 @@ The Pedro Soc is proudly presented to you by:
 
 - [Pedro de Oliveira Lengruber Lack](mailto:pedro.lack@univ.ox.ac.uk) (The First Pedro)
 - [Sidharth Suresh](mailto:sidharth.puthiyedathusuresh@univ.ox.ac.uk) (The Bureaucracy Guy)
-- Shing Fung Lau (The Notes Guy)
+- [Shing Fung Chan](mailto:shingfung.chan@univ.ox.ac.uk) (The Notes Guy)
 - Morgan Healey (Freshers' Officer)
 - [Samuel Chun Hei Lam](https://wcr.univ.ox.ac.uk/profile/Samuel-CHLam) (The IT Guy, also happens to be the WCR Guy)
