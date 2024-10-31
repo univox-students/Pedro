@@ -23,6 +23,7 @@ With the tools built from the previous talk, we shall now complete the proof of 
 ### 02/12/2024 (Week 8) - TBC
 
 ## Previous Talks
+- [Academic Year of 2024-25](/Pedro/prev_talks/2425)
 - [Academic Year of 2023-24](/Pedro/prev_talks/2324)
 
 ## Committee
