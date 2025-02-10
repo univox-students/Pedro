@@ -6,7 +6,7 @@ We thank the following people for running the society:
 - [Pedro de Oliveira Lengruber Lack](mailto:pedro.lack@univ.ox.ac.uk) 
     - The First Pedro, 2024-
 - [Sidharth Suresh](mailto:sidharth.puthiyedathusuresh@univ.ox.ac.uk) 
-    - The Notes Guy, 2024-
+    - The Notes Guy, 2024
     - The Bureaucracy Guy, 2023-2024
 - [Shing Fung Chan](mailto:shingfung.chan@univ.ox.ac.uk) 
     - The Bureaucracy Guy, 2024-

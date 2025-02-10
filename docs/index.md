@@ -2,25 +2,25 @@
 By the grace of *the* Pedro, the PedroSoc is set up as a series of student-led talks that aim to showcase mathematics and computer science that lies outside a typical undergraduate course. Details of regular meetings are as followed.
 
 - Date: every Monday
-- Time: from 7pm, until *we forget how to multiply*.
+- Time: from 7.30pm, until *we forget how to multiply*.
 - Venue: 90 High Street Lecture Theatre, University College. (To be confirmed!)
 
 The talks aim to be accessible to first and second year undergraduates, but can touch on more advanced ideas, especially for talks held later in the year. The PedroSoc is mainly for members of the [University College, Oxford](https://www.univ.ox.ac.uk). If you wish to join our community (aka our WhatsApp chat), [please contact any one of the committees below](#committee)!
 
-## Upcoming Talks (Michaelmas 2024)
+## Upcoming Talks (Hilary 2024)
 You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7TJT).
 
 When giving a talk, you are *highly recommended* (if not mandated by the First Pedro) to follow [the guide of giving a talk](/Pedro/giving_a_talk).
 
-### 04/11/2024 (Week 4) - Law of Iterated Logarithm Part II
-*Speaker: Samuel Chun Hei Lam*
+### 17/02/2025 (Week 5) - Five Mini Talks
+Do you desire to give a talk in PedroSoc, but you can't put together a full 1h30 talk? Do you want to test your skills, giving a shorter talk? PedroSoc has a new project: week 5 talks! We will try to get 5 mini-talks (between 15 and 30 minutes) in one meeting! Hoping to see many of your submissions! Any ideas (not necessarily maths) invited!
 
-With the tools built from the previous talk, we shall now complete the proof of the classical *law of iterated logarithms*. We shall see how the Borel-Cantelli lemma and the Chernoff bound give half of the proof. Then we will do a little bit more heavy-lifting to obtain the second half of the proof (which may also lead to the Central Limit Theorem for free).
+### 24/02/2025 (Week 6) - TBC
 
-### 11/11/2024 (Week 5) - TBC
-### 18/11/2024 (Week 6) - TBC
-### 25/11/2024 (Week 7) - TBC
-### 02/12/2024 (Week 8) - TBC
+### 03/03/2025 (Week 7) - Fellow's Talk
+*Prof. Nikolay Nikolov*
+
+### 10/03/2025 (Week 8) - 8 &#10178; &#8734: TBC
 
 ## Previous Talks
 - [Academic Year of 2024-25](/Pedro/prev_talks/2425)
