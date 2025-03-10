@@ -1,4 +1,7 @@
 # Welcome to PedroSoc
+
+![PedroSoc logo](pedrosoc.png)
+
 By the grace of *the* Pedro, the PedroSoc is set up as a series of student-led talks that aim to showcase mathematics and computer science that lies outside a typical undergraduate course. Details of regular meetings are as followed.
 
 - Date: every Monday
@@ -12,15 +15,10 @@ You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7T
 
 When giving a talk, you are *highly recommended* (if not mandated by the First Pedro) to follow [the guide of giving a talk](/Pedro/giving_a_talk).
 
-### 17/02/2025 (Week 5) - Five Mini Talks
-Do you desire to give a talk in PedroSoc, but you can't put together a full 1h30 talk? Do you want to test your skills, giving a shorter talk? PedroSoc has a new project: week 5 talks! We will try to get 5 mini-talks (between 15 and 30 minutes) in one meeting! Hoping to see many of your submissions! Any ideas (not necessarily maths) invited!
+### 10/03/2025 (Week 8) - 8 &#10178; &#8734: Baudelaire: Weaving Sorrow into Gold
+*Speaker: Heloise Rivet-Picolet*
 
-### 24/02/2025 (Week 6) - TBC
-
-### 03/03/2025 (Week 7) - Fellow's Talk
-*Prof. Nikolay Nikolov*
-
-### 10/03/2025 (Week 8) - 8 &#10178; &#8734: TBC
+We focus on the 19th century poet's life and the main themes of Baudelaire's extraordinary poetry, which won him the title of the first Modernist. Deep depression, urban change, the illusory nature of love, and unusual arrogance, we will see it all! No need for a background in literature - I'm a PPE student myself - this should be understandable (definitely) and interesting (hopefully) to anyone!
 
 ## Previous Talks
 - [Academic Year of 2024-25](/Pedro/prev_talks/2425)
