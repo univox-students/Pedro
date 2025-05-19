@@ -19,8 +19,12 @@ You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7T
 
 When giving a talk, you are *highly recommended* (if not mandated by the First Pedro) to follow [the guide of giving a talk](/Pedro/giving_a_talk).
 
-### 12/05/2025 (Week 3) - TBC
-*Speaker: TBC*
+### 12/05/2025 (Week 4) - Thermodynamics from the Scratch
+*Speaker: Yuhan Wang*
+
+Yuhan is doing a talk on Thermodynamics and how we develop certain fundamental truths through construction from a few axioms.
+
+**This is probably the final talk of the year due to the College Entz ban, so do come along!**
 
 ## Previous Talks
 - [Academic Year of 2024-25](/Pedro/prev_talks/2425)
