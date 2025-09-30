@@ -4,18 +4,20 @@
 
 > **[Check out our appearance at the Oxford Students.](https://www.oxfordstudent.com/2025/05/02/pedrosoc-embracing-erudition/) Thanks Yuhan Wang for writing this article.**
 
-PedroSoc is one of the two student seminars at the [University College of Oxford](https://www.univ.ox.ac.uk) (Univ). It is tailor-made for undergraduates with a STEM focus, although we welcome talks on humanities and social sciences as well! The society is named after Pedro Lack, the founder (founding *Pedro*) of this seminar series.
+*By the grace of the Pedro*, PedroSoc is set up as the University College seminar on undergraduate-level extra-curricular academic topics from all disciplines!
 
-Details of regular meetings are as followed.
+We meet at the following time and venue:
 
 - Date: every Monday
 - Time: from 7.30pm, until *we forget how to multiply*.
 - Venue: 90 High Street Lecture Theatre, University College. (*Pending*)
 
-The PedroSoc is mainly for Univ. If you wish to join our community (aka our WhatsApp chat), [please contact any one of the committees below](#committee)!
+Whilst this is a Univ society, we welcome attendance and contributions from other members and alumni of the Oxford University. If you wish to join our community (aka our WhatsApp chat), [please contact any one of the committees below](#committee)! 
+
+The seminar series is named after Pedro Lack, the founder (founding *Pedro*) of this seminar series. 
 
 ## Upcoming Talks (Michaelmas 2025)
-You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7TJT).
+You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7TJT). Topics from all rounds of disciplines are welcomed. (Yes, you are right, we are not confined to maths!)
 
 > We are featuring the following sub-series in our seminar:
 > 
