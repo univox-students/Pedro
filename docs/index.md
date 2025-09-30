@@ -18,6 +18,7 @@ The PedroSoc is mainly for Univ. If you wish to join our community (aka our What
 You can submit a talk by [filling this form](https://forms.office.com/e/CAqS5x7TJT).
 
 > We are featuring the following sub-series in our seminar:
+> 
 > - Week 5: five mini talks (each of 15-30 minutes)
 > - Week 8: 8 ⟂ ∞, featuring topics that are as irrelevant as what *Pedro is studying* (aka pure mathematics) as possible!
 
