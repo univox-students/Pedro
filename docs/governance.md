@@ -15,6 +15,8 @@ We thank the following people for running the society:
 - [Samuel Chun Hei Lam](https://wcr.univ.ox.ac.uk/profile/Samuel-CHLam) 
     - The IT Guy, 2024-
     - The WCR Guy, 2024-
+- [Yifu Zhang]() 
+    - Mathematigician in residence, 2025-
 - [Sidharth Suresh](mailto:sidharth.puthiyedathusuresh@univ.ox.ac.uk) 
     - The Notes Guy, 2024
     - The Bureaucracy Guy, 2023-2024

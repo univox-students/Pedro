@@ -51,3 +51,4 @@ The Pedro Soc is proudly presented to you by:
 - [Çağan Yanmaz](mailto:cagan.yanmaz@univ.ox.ac.uk) (The Notes Guy)
 - [Rosie Lawson](mailto:rosie.lawson@univ.ox.ac.uk) (Freshers' Girl)
 - [Samuel Chun Hei Lam](https://wcr.univ.ox.ac.uk/profile/Samuel-CHLam) (The IT Guy, also happens to be the WCR Guy)
+- [Yifu Zhang]() (Mathematigician in residence)
