@@ -12,7 +12,8 @@ copyright: Copyright &copy; 2024 Pedro Society, University College, Oxford. Webs
 
 nav:
   - Home: index.md
-  - Previous Talks: 
+  - Previous Talks:
+    - 2025-2026: prev_talks/2526.md
     - 2024-2025: prev_talks/2425.md
     - 2023-2024: prev_talks/2324.md
   - Governance: governance.md
