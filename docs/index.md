@@ -1,4 +1,4 @@
-# Welcome to PedroSoc
+# Welcome to PedroSoc - the Undergraduate Seminar at University College, Oxford
 
 ![PedroSoc logo](pedrosoc.png)
 
@@ -12,7 +12,7 @@ We meet at the following time and venue:
 - Time: from 7.30pm, until *we forget how to multiply*.
 - Venue: Meeting Room 2, 12 Merton Street, University College. 
 
-Whilst this is a Univ society, we welcome attendance and contributions from other members and alumni of the Oxford University. If you wish to join our community (aka our WhatsApp chat), [please contact any one of the committees below](#committee)! 
+Whilst this is a society of University College, we welcome attendance and contributions from other members and alumni of the Oxford University. If you wish to join our community (aka our WhatsApp chat), [please contact any one of the committees below](#committee)! 
 
 The seminar series is named after Pedro Lack, the founder (founding *Pedro*) of this seminar series. 
 
